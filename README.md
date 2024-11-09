@@ -1,2 +1,2 @@
-# Artisan-Alley
-Artisan Alley
+# Bead-and-Bloom-Collective
+The Bead and Bloom Collective
